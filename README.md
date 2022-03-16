@@ -1,11 +1,10 @@
  
 #    👨‍💻 Olá sou Welligton Santos, Desenvolvedor Java fullstack Jr
 -    👨‍🎓 Análise e Desenvolvimento de Sistema 
--    📚 Centro Universitário Carioca(Unicarioca)
+-    📚 Centro Universitário Carioca(Unicarioca)/início 02/2019
 -    📧 welligtoncos@gmail.com
 -    📞 (61)999560044
 -    🏠 Nova Iguaçu-RJ
--    📅 Data de início 02/2019
 -    ⚡ 24 anos 
 
 ##  Visão Geral
