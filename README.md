@@ -1,12 +1,12 @@
  
-#    👨‍💻 Olá sou Welligton Santos, Desenvolvedor Java fullstack Jr
+#    👨‍💻 Olá sou Welligton Santos, Desenvolvedor 
 -    👨‍🎓 Análise e Desenvolvimento de Sistema 
--    📚 Centro Universitário Carioca(Unicarioca)/início 02/2019
+-    📚 Centro Universitário Carioca(Unicarioca) 
 -    📧 welligtoncos@gmail.com
 -    📞 (61)999560044
 -    🏠 Nova Iguaçu-RJ
 -    ⚡ 24 anos 
-
+-    👨‍ 💻 Estagiario Desenvolvedor Fullstack .NET/Angular na Halliburton Rio de Janeiro
 ##  Visão Geral
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -33,7 +33,10 @@
    <img align="center" alt="Rafa-Js" height="55" width="175" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
    <img align="center" alt="Rafa-Js" height="55" width="175" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
    <img align="center" alt="Rafa-Js" height="55" width="175" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
- 
+   <img align="center" alt="Rafa-Js" height="55" width="175" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+   <img align="center" alt="Rafa-Js" height="55" width="175" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white">
+    <img align="center" alt="Rafa-Js" height="55" width="175" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+   <img align="center" alt="Rafa-Js" height="55" width="175" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
 </div> 
 
  
