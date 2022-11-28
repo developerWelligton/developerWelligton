@@ -1,12 +1,11 @@
  
 #    👨‍💻 Olá sou Welligton Santos, Desenvolvedor 
--    👨‍🎓 Análise e Desenvolvimento de Sistema 
--    📚 Centro Universitário Carioca(Unicarioca) 
+-    👨‍🎓 Análise e Desenvolvimento de Sistema  
 -    📧 welligtoncos@gmail.com
 -    📞 (61)999560044
 -    🏠 Nova Iguaçu-RJ
--    ⚡ 24 anos 
--    👨‍ 💻 Estagiario Desenvolvedor Fullstack .NET/Angular na Halliburton Rio de Janeiro
+-    ⚡ 25 anos 
+ 
 ##  Visão Geral
 <div align="center">
   <a href="https://github.com/rafaballerini">
